@@ -1,7 +1,0 @@
-{
-    "require": {
-      "swiftmailer/swiftmailer": "^6.2",
-      "ext-pdo": "*",
-      "ext-json": "*"
-    }
-}
